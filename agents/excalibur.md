@@ -1,4 +1,7 @@
 # excalibur
+[paper](https://arxiv.org/abs/2602.17622) 
+[source code](https://anonymous.4open.science/r/Excalibur-FA7D)
+
 The paper studies **LLM-based penetration-testing agents** and evaluates whether architectural innovations or model capability primarily drive performance improvements.
 
 **Evaluation setup.**
