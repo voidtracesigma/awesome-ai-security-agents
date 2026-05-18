@@ -16,6 +16,7 @@ A curated list of AI agents and frameworks for cybersecurity automation, reconna
 * MAPTA - a multi-agent LLM pentesting system that actually executes and validates exploits end-to-end, achieving strong real-world results (~77% success) while showing that tool-grounded, multi-agent orchestration beats single-agent approaches—but some vuln classes still break it.
 * xOffense - domain-tuned mid-size LLMs + well-orchestrated multi-agent pipelines can outperform bigger generic models, achieving strong (~79%) pentest task completion—i.e., structure + specialization > raw model size for autonomous hacking.
 * HackSynth - LLM‑based autonomous pentesting agent with separate planning and summarization modules, and introduces new CTF‑style benchmarks (PicoCTF & OverTheWire) to systematically evaluate such agents — showing the promise and limitations of LLMs for real penetration testing.
+- [APort Agent Guardrails](https://aport.io) - Pre-action authorization guardrails for AI agents and MCP/tool-use workflows.
 
 <!--* RedTeamLLM | - | - | https://arxiv.org/abs/2505.06913 | [source](https://github.com/lre-security-systems-team/redteamllm) | -->
 
